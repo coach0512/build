@@ -1,3 +1,5 @@
+//WHAT THE HELL IS THIS BUILD SYSTEM AND WHY DOES IT NEED TO BE IN MY LIFE?
+
 function hmm() {
 cat <<EOF
 Invoke ". build/envsetup.sh" from your shell to add the following functions to your environment:
